@@ -122,7 +122,7 @@ if score >= 70:
 # --- Snippet 23 ---
 # This should display a message based on age
 age = 18
-if age > 18:
+if age >= 18:
     print("You are a minor.")
 
     print("You are an adult.")
